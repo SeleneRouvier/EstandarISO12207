@@ -15,3 +15,17 @@
   font-size: 22px;
   color: black;
 }
+#fases {
+  max-width: 65%;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 768px) {
+  #fases {
+    max-width: 100%;
+  }
+}
