@@ -27,6 +27,9 @@
   font-size: 20px;
   color: redl;
 }
+#preg {
+  border-radius: 15px;
+}
 .navbar-toggler {
   background-color: black !important;
 }
