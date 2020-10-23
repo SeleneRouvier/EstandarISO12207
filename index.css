@@ -23,6 +23,25 @@
   align-items: center;
   justify-content: center;
 }
+
+#logo {
+  max-width: 70%;
+  height: 80px;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#logo2 {
+  max-width: 100%;
+  height: 80px;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 #puntos {
   font-size: 20px;
   color: redl;
