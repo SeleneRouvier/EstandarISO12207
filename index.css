@@ -57,4 +57,22 @@
   #fases {
     max-width: 100%;
   }
+  #logo {
+    max-width: 50%;
+    height: 50px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #logo2 {
+    max-width: 50%;
+    height: 60px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 }
