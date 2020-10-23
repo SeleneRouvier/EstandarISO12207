@@ -16,12 +16,19 @@
   color: black;
 }
 #fases {
-  max-width: 65%;
+  max-width: 70%;
   margin: auto;
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+#puntos {
+  font-size: 20px;
+  color: redl;
+}
+.navbar-toggler {
+  background-color: black !important;
 }
 
 @media (max-width: 768px) {
